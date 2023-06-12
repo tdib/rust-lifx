@@ -1,0 +1,10 @@
+{
+  "MyLight": {
+    "mac": "d0:73:d5:xx:xx:xx",
+    "ip": "127.0.0.1"
+  },
+  "BedsideLight": {
+    "mac": "d0:73:d5:xx:xx:xx",
+    "ip": "127.0.0.1"
+  }
+}
